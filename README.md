@@ -1,2 +1,2 @@
 # helli-world
-somesing
+something
